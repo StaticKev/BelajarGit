@@ -2,6 +2,7 @@ public class BelajarGit {
 
 	public static void main(String[] args) {
 	
+		hi!
 	} 
 
 }
